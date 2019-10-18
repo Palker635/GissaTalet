@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="965c7be2-4424-48d9-b283-25be01553f7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GissaTalet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GissaTalet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kap1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kap2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kap3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kap4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Kap5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GissaTalet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GissaTalet.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +25,10 @@
   <component name="ProjectId" id="1SKB4oXwCxlXhJkaZ0UkYUzeFP4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -50,6 +45,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="GissaTalet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GissaTalet" />
+      <module name="GissaTalet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GissaTalet" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -60,8 +69,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571302218873</updated>
-      <workItem from="1571302226187" duration="1824000" />
+      <workItem from="1571302226187" duration="2225000" />
+      <workItem from="1571380794322" duration="6081000" />
     </task>
+    <task id="LOCAL−00001" summary="Torsdag">
+      <created>1571304104556</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1571304104556</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,10 +89,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Torsdag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Torsdag" />
   </component>
 </project>
