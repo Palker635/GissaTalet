@@ -1,3 +1,8 @@
+/*
+Uppgift: GissaTalet
+Skapat 2019-10-18
+Dev: Isac Hansson
+*/
 import java.util.Random;
 import javax.swing.*;
 
