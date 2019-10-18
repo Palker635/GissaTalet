@@ -7,10 +7,10 @@ public class GissaTalet {
 
         int antal = 0;
         Random rand = new Random();
-        int n = rand.nextInt(100);
+        int n = rand.nextInt(101);
         //Generar ett nytt tal för "n" när n = 0 eftersom uppgiften säger att talet ska vara mellan 1 och 100.
         while (n == 0) {
-            n = rand.nextInt(100);
+            n = rand.nextInt(101);
         }
         int a = Integer.parseInt(JOptionPane.showInputDialog(null, "Gissa Talet!"));
         if (a == n) {

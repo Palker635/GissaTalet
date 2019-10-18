@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="965c7be2-4424-48d9-b283-25be01553f7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GissaTalet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GissaTalet.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +30,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571302218873</updated>
       <workItem from="1571302226187" duration="2225000" />
-      <workItem from="1571380794322" duration="6081000" />
+      <workItem from="1571380794322" duration="7049000" />
     </task>
     <task id="LOCAL−00001" summary="Torsdag">
       <created>1571304104556</created>
@@ -78,7 +77,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1571304104556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Fredag - Klart!">
+      <created>1571388640716</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1571388640717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Torsdag" />
-    <option name="LAST_COMMIT_MESSAGE" value="Torsdag" />
+    <MESSAGE value="Fredag - Klart!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fredag - Klart!" />
   </component>
 </project>
